@@ -12,5 +12,6 @@ public class Main {
         System.out.println("Por favor ingrese su nombre");
         nombre = input.nextLine();
 
-        System.out.println("Buenos dias señor@ "+nombre);
+        System.out.println("Buenos dias señor@ " + nombre);
     }
+}
