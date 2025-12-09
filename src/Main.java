@@ -6,12 +6,12 @@ public class Main {
 
         // Crear variables
 
-           String nombre;
-           Scanner input = new Scanner(System.in);
+        String nombre;
+        Scanner input = new Scanner(System.in);
 
-           System.out.println("Por favor ingrese su nombre");
-           nombre = input.nextLine();
+        System.out.println("Por favor ingrese su nombre");
+        nombre = input.nextLine();
 
-           System.out.println("Buenos dias señor@ "+nombre);
+        System.out.println("Buenos dias señor@ "+nombre);
     }
 }
